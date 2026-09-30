@@ -2,7 +2,7 @@ package menu;
 
 import javax.swing.JOptionPane;
 
-public class CarlinhosMenu {
+public class Menu {
     public static void main(String[] args) {
         
         int opcao = 0;
