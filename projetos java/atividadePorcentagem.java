@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class atividade% {
+public class atividadePorcentagem {
 
 public static void main(String[] args) {
 
