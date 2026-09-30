@@ -2,7 +2,7 @@ package aula1;
 
 import javax.swing.JOptionPane;
 
-public class Exemplo {
+public class IntroducaoJava {
 	// main() = Método executável, obrigatório
     public static void main(String args[]) {
         //criar variáveis: tipo nome de variável
