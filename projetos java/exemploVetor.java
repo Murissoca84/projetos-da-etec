@@ -1,7 +1,7 @@
 package vetor;
 import javax.swing.JOptionPane;
 
-public class exemploAula {
+public class exemploVetor {
 	public static void main(String[]args) {
 		
 //		//Array Unidimencional - vetor 
