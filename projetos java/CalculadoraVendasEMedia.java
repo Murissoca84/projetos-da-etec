@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class exemplo2 {
+public class CalculadoraVendasEMedia {
 	public static void main(String[] args) {
 		String nomeDoProduto = JOptionPane.showInputDialog("Digite o nome do produto");
 		double precoUnitario = Double.parseDouble(JOptionPane.showInputDialog("Digite o preço unitário"));
