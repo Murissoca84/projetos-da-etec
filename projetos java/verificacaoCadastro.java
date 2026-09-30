@@ -2,7 +2,7 @@ package exemplo;
 
 import javax.swing.JOptionPane;
 
-public class Azure {
+public class verificacaoCadastro {
 
 	 public static void main(String args[]) {
 	
