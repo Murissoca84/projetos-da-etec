@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exemplo% {
+public class ExemploPorcentagem {
 
 public static void main(String[] args) {
 

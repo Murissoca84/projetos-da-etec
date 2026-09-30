@@ -2,7 +2,7 @@ package blabla;
 
 import javax.swing.JOptionPane;
 
-public class ativVetor {
+public class atividadeVetor {
 	public static void main(String[]args) {
 		
 

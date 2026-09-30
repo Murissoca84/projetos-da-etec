@@ -2,7 +2,7 @@ import javax.swing.JOptionPane;
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
  
 //1)
-/*public class Exemplo {
+/*public class CalculoJuros {
 	public static void main(String args[]) {*/
        
 		/*double kilometros = Double.parseDouble(JOptionPane.showInputDialog("Digite o numero de km rodados"));

@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exemplo {
+public class ExemploVariaveis {
 	public static void main(String args[]) {
         //criar variáveis: tipo nome de variável
         //inicializa
